@@ -1,0 +1,1 @@
+spring.data.mongodb.uri: mongodb://cantarola:cantarola@cantaroladev-shard-00-00-ww0r7.mongodb.net:27017,cantaroladev-shard-00-01-ww0r7.mongodb.net:27017,cantaroladev-shard-00-02-ww0r7.mongodb.net:27017/?ssl=true&replicaSet=cantarolaDev-shard-0&authSource=admin
